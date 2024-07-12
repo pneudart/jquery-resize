@@ -1,0 +1,16 @@
+{
+  "name": "jquery-resize",
+  "version": "1.0.0",
+  "description": "A resize event for ALL your jQueries!",
+  "main": "jquery.ba-resize.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pneudart/jquery-resize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pneudart/jquery-resize/issues"
+  },
+  "homepage": "https://github.com/pneudart/jquery-resize#readme"
+}
